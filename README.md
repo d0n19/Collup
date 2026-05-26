@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CollabUp - Social Network for Creators & Devs
 
 CollabUp is a hybrid platform combining social networking and professional project recruitment. Users can find teammates for their startups, post project openings, and chat in real-time.
@@ -51,3 +52,7 @@ To test the full flow:
 ## Troubleshooting
 - **Real-time Chat not working?** Ensure `php artisan reverb:start` is running and your `.env` Reverb settings match.
 - **Database error?** Ensure `database/database.sqlite` exists and has write permissions.
+=======
+# Collup
+laravel 
+>>>>>>> 1ca7bb711aa7130e29c9747e94a1ad5e40b092f2
